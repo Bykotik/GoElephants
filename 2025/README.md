@@ -16,7 +16,7 @@
 
 ### Flutter
 
-- Дмитрий Дружин: АВведение в кроссплатформенную мобильную разработку на Flutter ([презентация](presentations/flutter-basics.pdf))
+- Дмитрий Дружин: Введение в кроссплатформенную мобильную разработку на Flutter ([презентация](presentations/flutter-basics.pdf))
 
 - Владислав Зюзько: State-management и работа с данными при разработке на Flutter ([презентация](presentations/flutter-advanced.pdf))
 
