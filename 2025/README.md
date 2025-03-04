@@ -28,9 +28,9 @@
 
 - Владислав Гончаренко: Kotlin Multiplatform ([шаблон проекта](examples/kmp-example))
 
-- Кирилл Шереметьев: iOS ([шаблон проекта](examples/ios-example))
+- Кирилл Шереметьев: iOS ([готовый проект](examples/ios-example))
 
-- Александр Сафронов и Артём Филякин: Flutter ([шаблон проекта](examples/flutter-example))
+- Александр Сафронов и Артём Филякин: Flutter ([шаблон проекта](examples/flutter-example) / [готовый проект](examples/flutter-example-done))
 
 
-[Информация о мероприятии](https://leader-id.ru/events/539439)
+[Информация о мероприятии](https://leader-id.ru/events/539439) / [Записи докладов](https://vkvideo.ru/playlist/-205076048_17)
