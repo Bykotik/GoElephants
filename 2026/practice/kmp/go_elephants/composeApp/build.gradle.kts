@@ -16,9 +16,9 @@ kotlin {
             implementation(project(":core:ui"))
             implementation(project(":core:domain"))
             implementation(project(":core:data"))
+            implementation(project(":feature:random"))
         }
         iosMain.dependencies {
-
         }
         commonTest.dependencies {
             implementation(libs.kotlin.test)
